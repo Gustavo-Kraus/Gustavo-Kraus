@@ -29,4 +29,4 @@
  
 </div>
 
-sim eu copei o codigo da cobrinha
+sim, eu copei o código da cobrinha
