@@ -1,7 +1,7 @@
 # Olá Eu Sou o Gustavo Kraus
 
-- Hoje Estudo Para Trabalhar Com Desenvolvimento Web
-- Estudando Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
+- Hoje Tralho com Bussines Inteligence & Data Science na empresa ESP Inteligência
+- E Nas Horas Vagas Programo Em Python
 - contate-me no email: contatogustavokraus@gmail.com
  
   <a href="https://github.com/Gustavo-Kraus">
